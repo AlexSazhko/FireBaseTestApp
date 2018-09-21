@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "100496949258",
+    "firebase_url": "https://farebasetestapp.firebaseio.com",
+    "project_id": "farebasetestapp",
+    "storage_bucket": "farebasetestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100496949258:android:362c6fe387827f17",
+        "android_client_info": {
+          "package_name": "com.signumdev.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100496949258-jmnp7mnfnlk76jd1h0i9l9rfdr19ep1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.signumdev.firebaseapp",
+            "certificate_hash": "f754041d245f229ccd68fe8d727b7aea84971133"
+          }
+        },
+        {
+          "client_id": "100496949258-usr56gn4uqf8drq3m9ekdret58s4eded.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbn-PWYM6BXJ8--56iZrsS6KcMvIMO50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100496949258-usr56gn4uqf8drq3m9ekdret58s4eded.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
